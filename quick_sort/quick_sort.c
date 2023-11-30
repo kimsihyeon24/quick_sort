@@ -76,6 +76,7 @@ int main(void) {
     }
     printf("\nAverage Move Count : %f", move_count / 20);
     printf("\nAverage Comp Count : %f", comp_count / 20);
+    //지금까지 비교한 정렬들중 가장 빠르고 효율적으로 움직이는 것을 확인
 
     return 0;
 }
